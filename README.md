@@ -46,6 +46,8 @@ Görselleştirme arayüzünü (Streamlit) başlatmak için ana dizinde şu komut
 .venv/Script/python.exe -m streamlit run dashboard_template/dashboard.py
 ```
 
+![Dashboard](dashboard.png)
+
 ## Katkıda Bulunma
 Bu şablonu kendi hackathon hedeflerinize göre özelleştirebilirsiniz. Veri analizi sonuçlarınıza göre dashboard'u güncelleyebilir ve oluşturduğunuz makine öğrenmesi modellerini API üzerinden dışa sunabilirsiniz.
 

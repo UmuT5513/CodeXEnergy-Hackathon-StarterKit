@@ -4,7 +4,7 @@ import os
 
 st.set_page_config(page_title="Energy Hackathon Dashboard", layout="wide")
 
-st.title("🔋 Energy Hackathon Dashboard")
+st.title("🔋 CodeXEnergy Hackathon Dashboard")
 st.markdown("Bu, `api_template/app.py` mantığına dayanarak oluşturulmuş basit bir Streamlit kontrol paneli (dashboard) şablonudur. Smart Grid veri setini kullanır.")
 
 # Bu dosyadan verisetinin göreceli(relative) yolunu belirt
